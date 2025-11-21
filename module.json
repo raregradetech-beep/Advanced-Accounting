@@ -1,0 +1,13 @@
+{
+"system_name": "advanced_accounting",
+"name": "Advanced Accounting",
+"description": "Full Xero-style double-entry accounting system for South Africa.",
+"version": "1.0.0",
+"author": "Rare Grade Tech",
+"author_url": "https://raregradetech.com",
+"support": "support@raregradetech.com",
+"company": "Rare Grade Tech (Pty) Ltd",
+"require": {
+"min_version": "3.0.0"
+}
+}
